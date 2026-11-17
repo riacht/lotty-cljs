@@ -1,0 +1,1 @@
+{"name":"lotty-cljs","private":true,"devDependencies":{"react-devtools":"^8.0.0","shadow-cljs":"^3.5.14"},"dependencies":{"react":"^19.3.1","react-dom":"^19.3.1"}}
